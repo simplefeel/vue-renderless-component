@@ -12,3 +12,7 @@
 
 代码下载下来之后，运行以下命令即可查看效果
 `npm install && npm run dev`
+
+### 项目截图
+
+![](./code.jpg)
