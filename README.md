@@ -2,7 +2,8 @@
 
 ### 文章引用
 
-[在 vue.js 中使用函数式组件](https://adamwathan.me/renderless-components-in-vuejs/)
+原文：[在 vue.js 中使用函数式组件](https://adamwathan.me/renderless-components-in-vuejs/)
+中文版：[函数式组件在 vue.js 中使用](https://juejin.im/post/5c2d7030f265da613a54236f)
 
 ### 函数式组件
 
